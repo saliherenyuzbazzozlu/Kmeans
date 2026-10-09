@@ -11,7 +11,7 @@ All walkthrough links currently point to the same video.
 
 | Part | Topic | Video Walkthrough |
 | --- | --- | --- |
-| 1 | K-Means clustering and its variations | [Watch Part 1](https://www.youtube.com/watch?v=Ztq_Gooso7w) |
+| 1 | K-Means clustering and its variations | [Watch Part 1](https://youtu.be/v8IKPNC132g) |
 | 2 | AutoGluon capabilities landscape | [Watch Part 2](https://www.youtube.com/watch?v=Ztq_Gooso7w) |
 | 3 | AutoGluon end-to-end machine learning and evaluation metrics | [Watch Part 3](https://www.youtube.com/watch?v=Ztq_Gooso7w) |
 | 4 | NVIDIA RAPIDS comparison with CPU implementations | [Watch Part 4](https://www.youtube.com/watch?v=Ztq_Gooso7w) |
